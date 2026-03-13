@@ -1,0 +1,3 @@
+INSERT patientid, patientname, patientlastname, patientcellnumber
+VALUES
+'1' 'Олег' Петренко 12.02.2001 +37377535452
